@@ -15,3 +15,4 @@ export const optimizeCityData = (data) => {
     console.log('optimized', optimized)
     return optimized
 }
+console.log(optimizeCityData)
